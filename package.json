@@ -1,6 +1,10 @@
 {
   "name": "auth-app",
   "version": "1.0.0",
+  "engines": {
+    "npm": "5.7.1",
+    "node": "9.5.0"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
